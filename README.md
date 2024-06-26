@@ -65,5 +65,7 @@ Required Libraries:
 ## Additional Info:
 This project has been built using tensorflow-gpu and Ubuntu 22.04 as host OS using Jupyter Notebook. Errors can arise due to incompatibility, therefore several changes can be made according to the IDE and host OS.
 
-![alt text](<WhatsApp Image 2024-06-23 at 9.58.44 PM.jpeg>)
-![alt text](<WhatsApp Image 2024-06-23 at 9.58.45 PM.jpeg>)
+output:
+![WhatsApp Image 2024-06-23 at 10 03 16 PM](https://github.com/sandeepgoudmacha/emojify/assets/143279752/4b9ac202-fdfc-4fc6-bcfd-030de304601a)
+
+![WhatsApp Image 2024-06-23 at 9 58 45 PM](https://github.com/sandeepgoudmacha/emojify/assets/143279752/4b715ef1-9b3c-4e7f-89a1-45cf825e5a1f)
